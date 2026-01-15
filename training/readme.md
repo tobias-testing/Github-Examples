@@ -19,5 +19,7 @@ new update
 
 asd
 
+<<<<<<< HEAD
 branch
 another update
+
