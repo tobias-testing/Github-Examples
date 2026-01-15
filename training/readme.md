@@ -19,4 +19,8 @@ new update
 
 asd
 
-main
+<<<<<<< HEAD
+branch
+another update
+
+stash
